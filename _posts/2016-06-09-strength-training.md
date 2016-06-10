@@ -34,7 +34,7 @@ The goal of strength training is to gain more strength. The best way I
 have found to achieve this is with a low number of sets and a low number of reps per set 
 and a technique known as [progressive overload](https://en.wikipedia.org/wiki/Progressive_overload). 
 The Stronglifts program recommends 5 sets of 5 reps. Starting Strength
-recommends 5 sets of 3 repetitions.
+recommends 5 sets of 3 reps.
 
 Each workout you gradually increase the amount of weight that you put on
 to the bar. It's best to begin with a very low weight and focus
@@ -42,10 +42,13 @@ intensely on technique. This will matter greatly as the weight starts to
 get heavier.
 
 Failure is a part of gaining strength. It's a good thing. It means you
-have reached a physical limit or boundary that now need remediation.
+have reached a physical limit or boundary that now needs remediation.
 Food and sleep are vital to recovery. Over time, with the proper
-adjustments your body can and will adapt. Learning how to fail safely is
-important in order to progress.
+adjustments, your body can and will adapt. Learning how to fail safely is
+important in order to progress. 
+[Starting Strength](https://www.amazon.ca/Starting-Strength-Basic-Barbell-Training/dp/0982522738) 
+will teach you proper technique and how to fail safely. 
+I am on my third copy of this book and still re-reading chapters.
 
 ## Mental Strength
 
@@ -61,11 +64,19 @@ mental adversity and break through barriers.
 ## Honesty
 
 Very few moments can be more humbling than failing at a squat attempt.
-If done safely there is little chance of injury, but in a crowded gym it
+When done properly, there is little chance of injury. Failing in a crowded gym
 can be a good dose of humility. Learning to fail publicly with dignity
 is a valuable lesson. Learning to challenge yourself publicly beyond
 your limits can also be exhilarating when you hit a personal record
 (PR). 
 
-Strength training helps one to develop a strong mind, strong body and
-strong will.
+## Partnership
+
+It can be difficult to progress without help. Having a partner to help spot
+you on a difficult bench press, or provide the proper
+[cues](http://startingstrength.com/training/cues) at just the right
+moment is essential.  A partner adds a level of accountability that
+makes it difficult to deny. Form checks, knowledge sharing, motivation,
+accountabilty, and kinship are all benefits of having a good partner.
+
+*Strength training helps one to develop a strong mind, strong body and strong will.*
