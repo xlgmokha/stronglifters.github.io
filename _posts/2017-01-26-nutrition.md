@@ -1,15 +1,16 @@
 ---
 layout: post
 title: Nutrition, Nutrition, Nutrition
+author: Stephen
 ---
 
-##Eat, eat, eat
+## Eat, eat, eat
 
 When I started my 5x5 program, Tyler, a gym regular doing the same program, told me the biggest mistake he made when he started was not eating enough. He made some gains but then firmly plateaued. His advice to me was, "Eat, eat, eat. Eat more than you think you need to." So I ate. I saw nice beginner gains. After a few months the eating became laborious and I stopped eating enough. With that, the gain train screeched to a halt.
 
 Tyler wasn't kidding. So I increased my food intake again and sure enough, the gain train steamed down the tracks once again. All aboard!
 
-##Numbers meet egos
+## Numbers meet egos
 
 After several months, I was feeling really good about my progress. I was scheduling active recovery weeks followed by a 10% deload. My numbers were going up and I was hitting new PRs. Eventually, I was moving pretty decent weight and every workout was a good, hard grind. The beginner gains were well behind me but my numbers were still slowly climbing and I was feeling good and strong.
 
@@ -21,7 +22,7 @@ Six months later, Mo and I went for a second scan. Again, it was more out of cur
 
 Our body fat percentages had gone up. I crept from 20% up to 21%, which nudged me into the less-desirable neighbourhood of "Excess fat". My focus was still on building strength but this poked at my ego. In that six-month span, I gained half a pound of fat and no new muscle mass. Ouch. Curiosity killed the cat.
 
-##The Information Rage
+## The Information Rage
 
 Six months. Half a pound fatter. No muscle gain. What to do with this information? My strength went up measurably, even though I gained no new muscle, so my attention to clean form translated into me using my muscles more efficiently throughout my exercises. Despite the new fat, that's good.
 
@@ -31,7 +32,7 @@ Counting calories is something that I have never wanted to do. It doesn't intere
 
 The BCA results provided us with not only the breakdown of our body stuff but with the estimated total daily energy expenditure (TDEE) required for the current state of our bodies (at various levels of fitness). That seemed a bit intimidating; my eyes started to cross. First: I'll just start tracking my current food intake. Easy.
 
-##Garbage in, garbage out
+## Garbage in, garbage out
 
 I started using MyFitnessPal to track my caloric intake. The app actually makes it very easy. It does take a little extra time but it's manageable. After a few meals, it's barely an interruption. But when setting up my details in the app, it wanted me to set a weight-loss goal. Hm. I just wanted to track my intake… it's the body fat percentage that I'd like to address. But that isn't an option; it has to be a weight goal. So I decided on an arbitrary ten-pound loss. This put my daily intake at 2,720 calories. This meant nothing to me and my eyes started to cross again. Onward.
 
@@ -47,7 +48,7 @@ Day Five was a workout day. I weighed myself on my new scale and was down 0.5 po
 
 Next was the overhead press, which was a PR repeat. I banged those out and even had enough to squeeze out an extra rep. What is happening? Deadlifts. Boom. Chin-ups. Blammo. I believe, I believe!
 
-##Eat, eat, eat
+## Eat, eat, eat
 
 After just four days of tracking everything that I intentionally consumed, making sure I balanced my macronutrients and was getting sufficient protein, I noticed a clear improvement of performance in my lifts. Yes, I am eating less now, I think around a 400-calorie deficit, but I'm eating smarter. I'm better spiking my carb intake after my workouts. I'm optimizing my nutrition and I really felt the benefit of that in that workout. Eat, eat, eat smartly.
 
