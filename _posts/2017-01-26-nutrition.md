@@ -54,3 +54,5 @@ After just four days of tracking everything that I intentionally consumed, makin
 The goal is still to build strength. I am understanding how vital proper nutrition is to build strength effectively. You can fine-tune your form until the cows come home but you also need to fine-tune your nutrition to really leverage it well.
 
 I will go for another body composition analysis at 2110 in about six weeks to see what that body fat percentage looks like.
+
+–Stephen
