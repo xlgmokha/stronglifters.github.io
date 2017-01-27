@@ -31,6 +31,8 @@ Counting calories is something that I have never wanted to do. It doesn't intere
 
 The BCA results provided us with not only the breakdown of our body stuff but with the estimated total daily energy expenditure (TDEE) required for the current state of our bodies (at various levels of fitness). That seemed a bit intimidating; my eyes started to cross. First: I'll just start tracking my current food intake. Easy.
 
+##Garbage in, garbage out
+
 I started using MyFitnessPal to track my caloric intake. The app actually makes it very easy. It does take a little extra time but it's manageable. After a few meals, it's barely an interruption. But when setting up my details in the app, it wanted me to set a weight-loss goal. Hm. I just wanted to track my intake… it's the body fat percentage that I'd like to address. But that isn't an option; it has to be a weight goal. So I decided on an arbitrary ten-pound loss. This put my daily intake at 2,720 calories. This meant nothing to me and my eyes started to cross again. Onward.
 
 Day One was messed up because of the Bod Pod. You cannot eat or drink a few hours prior to the analysis and our appointments were at 10am. So on Day One, I didn't eat anything until around noon. Fewer eye-crossing numbers to worry about. Fine by me.
