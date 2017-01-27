@@ -11,7 +11,7 @@ Tyler wasn't kidding. So I increased my food intake again and sure enough, the g
 
 ##Numbers meet egos
 
-After several months, I was feeling really good about my progress. I was scheduling active recovery weeks following by a 10% deload. My numbers were going up and I was hitting new PRs. Eventually, I was moving pretty decent weight and every workout was a good, hard grind. The beginner gains were well behind me but my numbers were still slowly climbing and I was feeling good and strong.
+After several months, I was feeling really good about my progress. I was scheduling active recovery weeks followed by a 10% deload. My numbers were going up and I was hitting new PRs. Eventually, I was moving pretty decent weight and every workout was a good, hard grind. The beginner gains were well behind me but my numbers were still slowly climbing and I was feeling good and strong.
 
 My training partner, Mo, and I decided to go in for a body composition analysis (BCA) via the Fly-esque chamber called the Bod Pod. More than anything, it was for curiosity's sake. Our focus was on building strength, not aesthetics, so we figured it would be an interesting experience and wouldn't bruise our egos too badly.
 
