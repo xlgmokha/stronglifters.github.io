@@ -13,7 +13,7 @@ Tyler wasn't kidding. So I increased my food intake again and sure enough, the g
 
 After several months, I was feeling really good about my progress. I was scheduling active recovery weeks followed by a 10% deload. My numbers were going up and I was hitting new PRs. Eventually, I was moving pretty decent weight and every workout was a good, hard grind. The beginner gains were well behind me but my numbers were still slowly climbing and I was feeling good and strong.
 
-My training partner, Mo, and I decided to go in for a body composition analysis (BCA) via the Fly-esque chamber called the Bod Pod. More than anything, it was for curiosity's sake. Our focus was on building strength, not aesthetics, so we figured it would be an interesting experience and wouldn't bruise our egos too badly.
+My training partner, Mo, and I decided to go in for a body composition analysis (BCA) via the [Fly](http://www.imdb.com/title/tt0091064/)-esque chamber called the Bod Pod. More than anything, it was for curiosity's sake. Our focus was on building strength, not aesthetics, so we figured it would be an interesting experience and wouldn't bruise our egos too badly.
 
 I am a 5'10", 37-year-old male and my body fat percentage came in at 20%. Not terrible. "Moderately lean" but at the top end of that range. I thought it was interesting information but I didn't sweat it much because my goals were still to gain strength; I didn't mind continuing down the path I was on, since I needed to eat at a surplus to do so.
 
