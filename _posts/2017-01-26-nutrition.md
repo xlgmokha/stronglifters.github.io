@@ -25,7 +25,7 @@ Our body fat percentages had gone up. I crept from 20% up to 21%, which nudged m
 
 Six months. Half a pound fatter. No muscle gain. What to do with this information? My strength went up measurably, even though I gained no new muscle, so my attention to clean form translated into me using my muscles more efficiently throughout my exercises. Despite the new fat, that's good.
 
-At [2110 Fitness](http://2110fitness.com/), where we had the analysis done, Cole (one of the owners) talked to us about our nutrition: what and when we were eating what. He recommended tracking caloric intake with MyFitnessPal, which is an application on one of those nifty phones the kids have. I have one of those nifty phones, so I downloaded the app. I started tracking my eating that day.
+At [2110 Fitness](http://2110fitness.com/), where we had the analysis done, Cole (one of the owners) talked to us about our nutrition: *what* and *when* we were eating what. He recommended tracking caloric intake with MyFitnessPal, which is an application on one of those nifty phones the kids have. I have one of those nifty phones, so I downloaded the app. I started tracking my eating that day.
 
 Counting calories is something that I have never wanted to do. It doesn't interest me in the least. When someone starts talking about macros, micros and cyclones, I go cross-eyed. So I was not looking forward to this. I just wanted to lift, eat, sleep and see strength gains. As it turns out, it's not that simple.
 
@@ -41,7 +41,7 @@ Day Two, a workout day, was pretty good until about 3pm. I was hungry. I was rea
 
 Day Three, a rest day, was pretty good. I think my body was getting used to the idea that we were planning to take in about 2,700 a day. My eyes pointed straight ahead. I bought a scale.
 
-Day Four, another rest day, was fine. What was interesting on this day is that I was consuming my usual kinds of things but when I looked at my macro-nutrients in the app (hey, my eyes didn't cross!) I saw that my protein intake lagged way behind. Armed with my new-found power of information, I just made sure to up my protein for the day. Bob's yer uncle. I didn't have that information before, so I would have just carried on with that protein deficit and would have been none the wiser. But I was doing that several times per week before I started paying attention. Eureka.
+Day Four, another rest day, was fine. What was interesting on this day is that I was consuming my usual kinds of things but when I looked at my macro-nutrients in the app (hey, my eyes didn't cross!) I saw that my protein intake lagged way behind. Armed with my new-found power of information, I just made sure to up my protein for the day. Bob's yer uncle. I didn't have that information before, so I would have just carried on with that protein deficit and would have been none the wiser. But I was doing that several times *per week* before I started paying attention. Eureka.
 
 Day Five was a workout day. I weighed myself on my new scale and was down 0.5 pounds. I decided not to increase the weight on any of my lifts, to see how things would go after four days of eating less. I start with squats and on my last warmup rep, at 305 lb (138.35 kg), I was delighted and bemused by how well the barbell was moving. I loaded up my work weight and took a three-minute rest, cautiously optimistic. I did my 3x5 work-weight sets at 330 lbs and they felt great. I was kind of stunned. This is from a more balanced diet?
 
