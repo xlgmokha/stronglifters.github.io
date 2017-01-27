@@ -21,6 +21,8 @@ Six months later, Mo and I went for a second scan. Again, it was more out of cur
 
 Our body fat percentages had gone up. I crept from 20% up to 21%, which nudged me into the less-desirable neighbourhood of "Excess fat". My focus was still on building strength but this poked at my ego. In that six-month span, I gained half a pound of fat and no new muscle mass. Ouch. Curiosity killed the cat.
 
+##The Information Rage
+
 Six months. Half a pound fatter. No muscle gain. What to do with this information? My strength went up measurably, even though I gained no new muscle, so my attention to clean form translated into me using my muscles more efficiently throughout my exercises. Despite the new fat, that's good.
 
 At [2110 Fitness](http://2110fitness.com/), where we had the analysis done, Cole (one of the owners) talked to us about our nutrition: what and when we were eating what. He recommended tracking caloric intake with MyFitnessPal, which is an application on one of those nifty phones the kids have. I have one of those nifty phones, so I downloaded the app. I started tracking my eating that day.
