@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Strength Training
+author: Mo
 ---
 
 Strength training is a practice that applies a stress to one's body in
