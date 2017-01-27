@@ -5,7 +5,7 @@ title: Nutrition, Nutrition, Nutrition
 
 ##Eat, eat, eat
 
-When I started my 5x5 program, Tyler, a gym regular doing the same program, told me the biggest mistake he made when he started was not eating enough. He made some gains but then firmly plateaued. His advice to me was, "Eat, eat, eat. Eat more than you think you need to." So I ate. I saw nice beginner gains. After a few months the eating became laborious and stopped eating enough. With that, the gain train screeched to a halt.
+When I started my 5x5 program, Tyler, a gym regular doing the same program, told me the biggest mistake he made when he started was not eating enough. He made some gains but then firmly plateaued. His advice to me was, "Eat, eat, eat. Eat more than you think you need to." So I ate. I saw nice beginner gains. After a few months the eating became laborious and I stopped eating enough. With that, the gain train screeched to a halt.
 
 Tyler wasn't kidding. So I increased my food intake again and sure enough, the gain train steamed down the tracks once again. All aboard!
 
