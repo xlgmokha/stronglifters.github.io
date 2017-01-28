@@ -26,7 +26,7 @@ Our body fat percentages had gone up. I crept from 20% up to 21%, which nudged m
 
 Six months. Half a pound fatter. No muscle gain. What to do with this information? My strength went up measurably, even though I gained no new muscle, so my attention to clean form translated into me using my muscles more efficiently throughout my exercises. Despite the new fat, that's good.
 
-At [2110 Fitness](http://2110fitness.com/), where we had the analysis done, Cole (one of the owners) talked to us about our nutrition: *what* and *when* we were eating what. He recommended tracking caloric intake with MyFitnessPal, which is an application on one of those nifty phones the kids have. I have one of those nifty kid phones, so I downloaded the app. I started tracking my eating that day.
+At [2110 Fitness](http://2110fitness.com/), where we had the analysis done, Cole (one of the owners) talked to us about our nutrition: *what* we were eating and *when* we were eating it. He recommended tracking caloric intake with MyFitnessPal, which is an application on one of those nifty phones the kids have. I have one of those nifty kid phones, so I downloaded the app. I started tracking my eating that day.
 
 Counting calories is something that I have never wanted to do. It doesn't interest me in the least. When someone starts talking about macros, micros and cyclones, I go cross-eyed. So I was not looking forward to this. I just wanted to lift, eat, sleep and see strength gains. As it turns out, it's not that simple.
 
