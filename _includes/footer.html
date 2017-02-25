@@ -1,38 +1,19 @@
-<footer class="site-footer">
-
-  <div class="wrapper">
-
-    <h2 class="footer-heading">{{ site.title }}</h2>
-
-    <div class="footer-col-wrapper">
-      <div class="footer-col footer-col-1">
-        <ul class="contact-list">
-          <li>{{ site.title }}</li>
-          <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
-        </ul>
-      </div>
-
-      <div class="footer-col footer-col-2">
-        <ul class="social-media-list">
-          {% if site.github_username %}
-          <li>
-            {% include icon-github.html username=site.github_username %}
-          </li>
-          {% endif %}
-
-          {% if site.twitter_username %}
-          <li>
-            {% include icon-twitter.html username=site.twitter_username %}
-          </li>
-          {% endif %}
-        </ul>
-      </div>
-
-      <div class="footer-col footer-col-3">
-        <p>{{ site.description }}</p>
-      </div>
+<footer class="footer">
+  <div class="container">
+    <div class="content has-text-centered">
+      <h2 class="subtitle">{{ site.title }}</h2>
+      <p>{{ site.description }}</p>
+      <p>
+        <a class="icon" href="https://github.com/stronglifters">
+          <i class="fa fa-github"></i>
+        </a>
+        <a class="icon" href="https://twitter.com/stronglifters">
+          <i class="fa fa-twitter"></i>
+        </a>
+        <a href="{{ "/feed.xml" | prepend: site.baseurl }}">
+          <i class="fa fa-rss"></i>
+        </a>
+      </p>
     </div>
-
   </div>
-
 </footer>

@@ -2,25 +2,14 @@
 layout: default
 ---
 
-<div class="home">
-
-  <h1 class="page-heading">Posts</h1>
-
-  <ul class="post-list">
-    {% for post in site.posts %}
-      <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
-        <p>
-          {{ post.excerpt }} &hellip;
-        </p>
-      </li>
-    {% endfor %}
-  </ul>
-
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
-
+<div class="column is-12">
+  {% for post in site.posts %}
+  <article>
+    <h1 class='title'> <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a> </h2>
+    <h2 class="subtitle"><time datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">{{ post.date | date: "%b %-d, %Y" }}</time>{% if post.author %} • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ post.author }}</span></span>{% endif %}</h2>
+    <div class="content">
+      <p> {{ post.content }} </p>
+    </div>
+  </article>
+  {% endfor %}
 </div>
