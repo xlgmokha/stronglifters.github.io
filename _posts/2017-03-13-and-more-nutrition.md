@@ -22,8 +22,8 @@ I started to closely monitor my diet. This was my first foray into nutrition and
 
 Prior to this endeavour, I had no idea how many calories I was taking in each day. I had even less of an idea of what my macronutrient balance was. Now targeting 2,720 calories per day, I decided to balance my macros as follows:
 
-Carbs: 35% (238 g)
-Protein: 35% (238 g)
+Carbs: 35% (238 g)  
+Protein: 35% (238 g)  
 Fat: 30% (91 g)
 
 I quickly realized that I was not getting enough protein. Not nearly enough. So that was a major change immediately. If I needed to snack, I'd look at MyFitnessPal to see what would fit my macros targets. This was an eye opener, as it highlighted that my usual type of snack choice was often the wrong one. After less than a week of following this plan and respecting these targets, the barbell was moving quite well at the gym. I was quite surprised. Four days of optimized nutrition seemed to actually make a difference.
@@ -50,8 +50,8 @@ My numbers:
 * body-fat percentage: 18.5%
 * resting metabolic rate (RMR): 1,846
 
-Weight loss: 4 lb
-Fat loss: 5.5 lb
+Weight loss: 4 lb  
+Fat loss: 5.5 lb  
 Muscle gain: 1.5 lb
 
 I'm sold. I am happy with these results after just six weeks of giving careful attention to my diet. It was a cowboy bulk before that.
@@ -70,8 +70,8 @@ As before, I drink water throughout the day (2–3 litres), have a snack around 
 
 Although I'm happy with the results of these changes, I'm interested to see what happens when I adjust my macros slightly. Now I'm aiming for this balance:
 
-Carbs: 40% (272 g)
-Protein: 30% (204 g)
+Carbs: 40% (272 g)  
+Protein: 30% (204 g)  
 Fat: 30% (91 g)
 
 I am hoping this will give me a little more energy, while still providing at least one gram of protein per pound of body weight. I'm trying to get about 1/3 (~90g) of those carbs before a workout, then the rest throughout the day.
